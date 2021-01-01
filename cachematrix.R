@@ -12,7 +12,7 @@ makeCacheMatrix <- function(x = matrix()) {
   }
   
   
-  get <- function(c){           ## get matrix
+  get <- function(){           ## get matrix
       x
   }  
   
